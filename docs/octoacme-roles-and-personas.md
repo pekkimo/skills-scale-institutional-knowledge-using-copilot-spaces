@@ -147,8 +147,7 @@ Stakeholder Champions serve as the primary liaison between the project team and 
 - Gather, synthesize, and communicate stakeholder feedback to the team
 - Ensure stakeholder expectations are understood and managed appropriately
 - Facilitate stakeholder review sessions and feedback loops
-- Advocate for stakeholder interests in project planning and decision-making
-- Monitor and report on stakeholder satisfaction
+- Advocate for stakeholder interests in planning and monitor stakeholder satisfaction
 
 ### Goals
 - Maximize stakeholder satisfaction and engagement
